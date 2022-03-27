@@ -1,0 +1,12 @@
+NAME=KokOS
+PRETTY_NAME=KokOS
+ID=kokos
+ID_LIKE=arch
+BUILD_ID=2022.03.26
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL='https://htlwienwest.at'
+DOCUMENTATION_URL='https://htlwienwest.at'
+SUPPORT_URL='https://htlwienwest.at'
+BUG_REPORT_URL='https://htlwienwest.at'
+LOGO=kokos
+
